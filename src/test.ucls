@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="Presentacion.Cliente.VentanaModificarCliente" project="Farmacia" 
+    file="/Farmacia/src/Presentacion/Cliente/VentanaModificarCliente.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="286" width="223" x="355" y="179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="2" language="java" name="Integracion.DAOCliente" project="Farmacia" 
+    file="/Farmacia/src/Integracion/DAOCliente" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="191" x="618" y="179"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="3" language="java" name="Presentacion.Vista.MostrarTodos" project="Farmacia" 
+    file="/Farmacia/src/Presentacion/Vista/MostrarTodos.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="155" x="849" y="179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="Controller.Controller" project="Farmacia" 
+    file="/Farmacia/src/Controller/Controller.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="123" width="179" x="3375" y="179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="5" language="java" name="Presentacion.Vista" project="Farmacia" file="/Farmacia/src/Presentacion/Vista" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="156" x="1044" y="179"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="6" language="java" name="Integracion.Conexion.Conexion" project="Farmacia" 
+    file="/Farmacia/src/Integracion/Conexion/Conexion.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="214" width="211" x="4098" y="179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="7" language="java" name="Integracion.DAOCliente.DAOCliente" project="Farmacia" 
+    file="/Farmacia/src/Integracion/DAOCliente/DAOCliente.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="178" width="198" x="4098" y="885"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="8" language="java" name="Presentacion.Cliente.VentanaCrearCliente" project="Farmacia" 
+    file="/Farmacia/src/Presentacion/Cliente/VentanaCrearCliente.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="286" width="223" x="1240" y="179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="Presentacion.Vista.MostrarUno" project="Farmacia" 
+    file="/Farmacia/src/Presentacion/Vista/MostrarUno.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="144" x="1503" y="179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="Presentacion.Vista.OperationsPanel" project="Farmacia" 
+    file="/Farmacia/src/Presentacion/Vista/OperationsPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="232" width="186" x="4349" y="613"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="Controller.ControllerImp" project="Farmacia" 
+    file="/Farmacia/src/Controller/ControllerImp.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="176" x="3375" y="613"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="12" language="java" name="Presentacion.Cliente" project="Farmacia" 
+    file="/Farmacia/src/Presentacion/Cliente" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="173" x="1687" y="179"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="13" language="java" name="Negocio.Cliente" project="Farmacia" file="/Farmacia/src/Negocio/Cliente" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="138" x="1900" y="179"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="14" language="java" name="Presentacion.Cliente.GUICliente" project="Farmacia" 
+    file="/Farmacia/src/Presentacion/Cliente/GUICliente.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="223" x="4349" y="179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="15" language="java" name="Integracion.Conexion" project="Farmacia" 
+    file="/Farmacia/src/Integracion/Conexion" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="176" x="2078" y="179"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="16" language="java" name="Presentacion.Cliente.VentanaBajaCliente" project="Farmacia" 
+    file="/Farmacia/src/Presentacion/Cliente/VentanaBajaCliente.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="286" width="223" x="2294" y="179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="Negocio.Cliente.SAClienteImp" project="Farmacia" 
+    file="/Farmacia/src/Negocio/Cliente/SAClienteImp.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="178" width="198" x="3088" y="613"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="18" language="java" name="Negocio.Cliente.SACliente" project="Farmacia" 
+    file="/Farmacia/src/Negocio/Cliente/SACliente.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="198" x="3088" y="885"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="19" language="java" name="Presentacion.Vista.IGUI" project="Farmacia" 
+    file="/Farmacia/src/Presentacion/Vista/IGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="197" x="3544" y="1193"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="20" language="java" name="Controller.Evento" project="Farmacia" file="/Farmacia/src/Controller/Evento.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="358" width="318" x="2557" y="179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="Integracion.DAOCliente.DAOClienteImp" project="Farmacia" 
+    file="/Farmacia/src/Integracion/DAOCliente/DAOClienteImp.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="214" width="198" x="4098" y="613"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="Presentacion.Vista.GUIFarmacia" project="Farmacia" 
+    file="/Farmacia/src/Presentacion/Vista/GUIFarmacia.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="268" width="197" x="3326" y="885"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="23" language="java" name="Main" project="Farmacia" file="/Farmacia/src/Main" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="2915" y="179"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="24" language="java" name="Tranfers.TCliente" project="Farmacia" file="/Farmacia/src/Tranfers/TCliente.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="394" width="258" x="3077" y="179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="Main.Main" project="Farmacia" file="/Farmacia/src/Main/Main.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="124" width="130" x="3604" y="179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="26" language="java" name="Tranfers" project="Farmacia" file="/Farmacia/src/Tranfers" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="3774" y="179"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="27" language="java" name="Presentacion" project="Farmacia" file="/Farmacia/src/Presentacion" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="3936" y="179"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <generalization id="28">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <association id="29">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="30" name="instance"/>      
+      <multiplicity id="31" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="32">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <realization id="33">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="19"/>  
+  </realization>  
+  <realization id="34">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="18"/>  
+  </realization>  
+  <association id="35">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="36" name="OperationsPanel"/>      
+      <multiplicity id="37" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="38">    
+    <bendpoint x="3553" y="885"/>    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="39" name="gui"/>      
+      <multiplicity id="40" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="41">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="42" name="saCliente"/>      
+      <multiplicity id="43" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="44">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <association id="45">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="46" name="farmacia"/>      
+      <multiplicity id="47" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
